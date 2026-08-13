@@ -1,0 +1,500 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hashicorp/damon",
+          "description": "An early stage terminal dashboard for Nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-11T03:20:18Z",
+            "owner": "hashicorp",
+            "repo": "damon",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robinovitch61/wander",
+          "description": "A terminal UI for Nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-18T23:55:45Z",
+            "owner": "robinovitch61",
+            "repo": "wander",
+            "stars": 480
+          }
+        }
+      ],
+      "title": "User interfaces"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hashicorp/nomad-autoscaler",
+          "description": "HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:31:09Z",
+            "owner": "hashicorp",
+            "repo": "nomad-autoscaler",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucretius/nomad-elastigroup-autoscaler",
+          "description": "Nomad Autoscaler plugin for Spot.io Elastigroup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-28T23:10:43Z",
+            "owner": "Lucretius",
+            "repo": "nomad-elastigroup-autoscaler",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Autoscaling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hashicorp/levant",
+          "description": "A templating and deployment tool for HashiCorp Nomad jobs that provides realtime feedback and detailed failure messages upon deployment issues.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-06-27T12:56:23Z",
+            "owner": "hashicorp",
+            "repo": "levant",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nomad-ops/nomad-ops",
+          "description": "A simple way to deploy workloads via GitOps. Similar to ArgoCD with a UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-10T21:25:04Z",
+            "owner": "nomad-ops",
+            "repo": "nomad-ops",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jenkinsci/nomad-plugin",
+          "description": "Jenkins plugin to allow using Nomad Jobs to scale out Jenkins build slaves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-12T18:55:55Z",
+            "owner": "jenkinsci",
+            "repo": "nomad-plugin",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sunshard-prism/prism-nomad)",
+          "description": "Prism is a tool that simplifies the creation of Nomad job configuration templates and deploys them to a remote cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-28T18:25:32Z",
+            "owner": "sunshard-team",
+            "repo": "prism-nomad",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gerrowadat/nomad-gitops",
+          "description": "Another implementation of 'gitops' style drift detection and deployment for Nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T06:36:44Z",
+            "owner": "gerrowadat",
+            "repo": "nomad-gitops",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashicorp/setup-nomad-pack",
+          "description": "HashiCorp-maintained GitHub Action for .",
+          "children": []
+        }
+      ],
+      "title": "CI / CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roblox/nomad-driver-containerd",
+          "description": "A nomad task driver for containerd. Documentation on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-23T18:59:18Z",
+            "owner": "Roblox",
+            "repo": "nomad-driver-containerd",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roblox/nomad-driver-iis",
+          "description": "A nomad task driver to run windows IIS tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-23T19:00:38Z",
+            "owner": "Roblox",
+            "repo": "nomad-driver-iis",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JanMa/nomad-driver-nspawn",
+          "description": "A nomad task driver to run containers with systemd-nspawn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-05T15:02:08Z",
+            "owner": "JanMa",
+            "repo": "nomad-driver-nspawn",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sevensolutions/nomad-iis",
+          "description": "A nomad task driver to run windows IIS tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T07:25:26Z",
+            "owner": "sevensolutions",
+            "repo": "nomad-iis",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorenisanerd/nomad-docker-driver-external",
+          "description": "External version of the docker driver for Nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-01T19:58:50Z",
+            "owner": "sorenisanerd",
+            "repo": "nomad-docker-driver-external",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "perrymanuk/hashi-homelab",
+          "description": "Job files for a small lightweight homelab based on nomad and consul from hashicorp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-13T05:02:55Z",
+            "owner": "perrymanuk",
+            "repo": "hashi-homelab",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashicorp/nomad-pack-community-registry",
+          "description": "The official community registry for Nomad Pack templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-07-27T07:03:01Z",
+            "owner": "hashicorp",
+            "repo": "nomad-pack-community-registry",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Job Files and Packs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jsiebens/hashi-up",
+          "description": "A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T22:54:32Z",
+            "owner": "jsiebens",
+            "repo": "hashi-up",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashicorp/nomad-pack",
+          "description": "An official templating tool and package manager for Nomad, currently a Tech Preview.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:00:40Z",
+            "owner": "hashicorp",
+            "repo": "nomad-pack",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngine-io/chaotic",
+          "description": "Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:42:46Z",
+            "owner": "ngine-io",
+            "repo": "chaotic",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mr-karan/nomad-events-sink",
+          "description": "Ships nomad event logs to dedicated sinks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-06-21T05:45:50Z",
+            "owner": "mr-karan",
+            "repo": "nomad-events-sink",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roblox/nomad-node-problem-detector",
+          "description": "A tool used to detect problems on Nomad nodes based on user-defined health checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-23T19:03:03Z",
+            "owner": "Roblox",
+            "repo": "nomad-node-problem-detector",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koyeb/kreconciler",
+          "description": "A library for building operators and reconcilers on top of Nomad (or other schedulers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-29T00:25:45Z",
+            "owner": "koyeb",
+            "repo": "kreconciler",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kamilcuk/nomad-tools",
+          "description": "for Nomad, watch all logs and events of a job in the terminal, copy files to/from host and allocations, manage Nomad variables as files, list ports associated with job, implementation of custom executor that executes Gitlab CI/CD jobs as Nomad jobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T09:26:01Z",
+            "owner": "Kamilcuk",
+            "repo": "nomad-tools",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mr-karan/nomcfg",
+          "description": "A ui for generating nomad job specs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-11T10:39:41Z",
+            "owner": "mr-karan",
+            "repo": "nomcfg",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axsuul/nomad-event-streamer",
+          "description": "A tool for sending Nomad events to your favorite destinations like Discord and Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-22T16:23:11Z",
+            "owner": "axsuul",
+            "repo": "nomad-event-streamer",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "let-sh/nomad-deploy-result-action",
+          "description": "A GitHub action for automating Nomad deploys with GitOps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-14T23:30:19Z",
+            "owner": "let-sh",
+            "repo": "nomad-deploy-result-action",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmaes/nomad-logger",
+          "description": "Watch Nomad allocations and update logshipper config.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-02-12T10:29:00Z",
+            "owner": "dmaes",
+            "repo": "nomad-logger",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kelseyhightower/hashiconf-eu-2016",
+          "description": "Repo from a talk on building out a deployment with GCE/Consul/Nomad/Fabio loadbalancer. Check out the talk on youtube: https://www.youtube.com/watch?v=Nosa5-xcATw",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-09-08T14:53:59Z",
+            "owner": "kelseyhightower",
+            "repo": "hashiconf-eu-2016",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anubhavmishra/envoy-consul-sds",
+          "description": "A tutorial on how to get Envoy running on Nomad and using Envoy's SDS(Service Discovery Service) to access Consul API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-05T02:39:49Z",
+            "owner": "anubhavmishra",
+            "repo": "envoy-consul-sds",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fhemberger/nomad-demo",
+          "description": "Vagrant based demo setup for running Hashicorp Consul, Nomad and Vault, including sample apps for Docker, JRE and a basic monitoring setup. Uses Traefik as load balancer to pick up services directly from Consul catalog.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2023-07-01T23:40:50Z",
+            "owner": "fhemberger",
+            "repo": "nomad-demo",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pete0emerson/hashipoc",
+          "description": "A Vagrant driven example of getting Consul / Vault / Nomad up and running with a sample app deployed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-12-08T00:43:20Z",
+            "owner": "pete0emerson",
+            "repo": "hashipoc",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Examples / Demos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:48:31.796Z",
+    "original_repository": "jippi/awesome-nomad",
+    "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
+    "enhanced_repository": "enhansome/enhansome-nomad",
+    "enhanced_repository_description": null,
+    "title": "Awesome Nomad with stars"
+  }
+}
