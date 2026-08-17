@@ -82,7 +82,7 @@
             "last_commit": "2025-06-27T12:56:23Z",
             "owner": "hashicorp",
             "repo": "levant",
-            "stars": 835
+            "stars": 834
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-16T01:26:04Z",
+            "last_commit": "2026-08-16T20:26:14Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T03:35:19Z",
+            "last_commit": "2026-08-17T03:35:48Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:55:21.285Z",
+    "last_updated": "2026-08-17T07:12:37.735Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
     "enhanced_repository": "enhansome/enhansome-nomad",
