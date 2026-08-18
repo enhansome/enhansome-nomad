@@ -135,7 +135,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-09T06:36:44Z",
+            "last_commit": "2026-08-17T10:24:00Z",
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
             "stars": 1
@@ -203,7 +203,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T09:07:34Z",
+            "last_commit": "2026-08-17T07:26:04Z",
             "owner": "sevensolutions",
             "repo": "nomad-iis",
             "stars": 26
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-16T20:26:14Z",
+            "last_commit": "2026-08-17T21:57:07Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T03:35:48Z",
+            "last_commit": "2026-08-18T03:33:46Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T13:42:46Z",
+            "last_commit": "2026-08-17T13:42:43Z",
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:12:37.735Z",
+    "last_updated": "2026-08-18T07:00:04.395Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
     "enhanced_repository": "enhansome/enhansome-nomad",
