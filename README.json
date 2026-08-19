@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T14:08:51Z",
+            "last_commit": "2026-08-18T07:40:25Z",
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 476
@@ -164,7 +164,7 @@
             "last_commit": "2025-07-23T18:59:18Z",
             "owner": "Roblox",
             "repo": "nomad-driver-containerd",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -237,7 +237,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-17T21:57:07Z",
+            "last_commit": "2026-08-19T06:14:28Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-18T03:33:46Z",
+            "last_commit": "2026-08-19T03:34:16Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -341,7 +341,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-29T00:25:45Z",
+            "last_commit": "2026-08-18T16:05:08Z",
             "owner": "koyeb",
             "repo": "kreconciler",
             "stars": 51
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:00:04.395Z",
+    "last_updated": "2026-08-19T07:01:52.495Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
     "enhanced_repository": "enhansome/enhansome-nomad",
