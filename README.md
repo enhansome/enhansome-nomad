@@ -11,7 +11,7 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Autoscaling
 
-* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 476 | 🐛 80 | 🌐 Go | 📅 2026-08-18 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
+* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 476 | 🐛 80 | 🌐 Go | 📅 2026-08-19 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
 * [lucretius/nomad-elastigroup-autoscaler](https://github.com/lucretius/nomad-elastigroup-autoscaler) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-28 - Nomad Autoscaler plugin for [Spot.io Elastigroup](https://spot.io/products/elastigroup/).
 
 ## CI / CD
