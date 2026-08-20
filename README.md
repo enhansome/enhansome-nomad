@@ -20,7 +20,7 @@ Pull requests with additional tools and projects are more than welcome!
 * [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) ⭐ 113 | 🐛 10 | 🌐 TypeScript | 📅 2025-06-10 - A simple way to deploy workloads via GitOps. Similar to ArgoCD with a UI.
 * [jenkinsci/nomad-plugin](https://github.com/jenkinsci/nomad-plugin) ⭐ 59 | 🐛 20 | 🌐 Java | 📅 2024-02-12 - Jenkins plugin to allow using Nomad Jobs to scale out Jenkins build slaves.
 * [sunshard-prism/prism-nomad)](https://github.com/sunshard-prism/prism-nomad) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2025-02-28 - Prism is a tool that simplifies the creation of Nomad job configuration templates and deploys them to a remote cluster.
-* [gerrowadat/nomad-gitops](https://github.com/gerrowadat/nomad-gitops) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-17 - Another implementation of 'gitops' style drift detection and deployment for Nomad.
+* [gerrowadat/nomad-gitops](https://github.com/gerrowadat/nomad-gitops) ⭐ 1 | 🐛 2 | 🌐 Go | 📅 2026-08-19 - Another implementation of 'gitops' style drift detection and deployment for Nomad.
 * [getnelson/nelson](https://getnelson.io/) - Lights-out deployment and lifecycle manager for Nomad (and other pluggable schedulers). Fully integrated with Vault and Consul. Optionally can act as a control plane for your traffic routing teir.
 * [hashicorp/setup-nomad-pack](https://github.com/marketplace/actions/setup-hashicorp-nomad-pack) - HashiCorp-maintained GitHub Action for `nomad-pack`.
 
@@ -46,7 +46,7 @@ Pull requests with additional tools and projects are more than welcome!
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-08-19 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-08-20 - An official templating tool and package manager for Nomad, currently a Tech Preview.
 * [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 9 | 🌐 Python | 📅 2026-08-17 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2025-07-23 - A tool used to detect problems on Nomad nodes based on user-defined health checks.
@@ -61,7 +61,7 @@ Pull requests with additional tools and projects are more than welcome!
 ## Tutorials
 
 * [kelseyhightower/hashiconf-eu-2016](https://github.com/kelseyhightower/hashiconf-eu-2016) ⭐ 106 | 🐛 1 | 🌐 Shell | 📅 2016-09-08 - Repo from a talk on building out a deployment with GCE/Consul/Nomad/Fabio loadbalancer. Check out the talk on youtube: <https://www.youtube.com/watch?v=Nosa5-xcATw>
-* [anubhavmishra/envoy-consul-sds](https://github.com/anubhavmishra/envoy-consul-sds) ⭐ 68 | 🐛 3 | 🌐 Go | 📅 2023-05-05 - A tutorial on how to get Envoy running on Nomad and using Envoy's SDS(Service Discovery Service) to access Consul API.
+* [anubhavmishra/envoy-consul-sds](https://github.com/anubhavmishra/envoy-consul-sds) ⭐ 67 | 🐛 3 | 🌐 Go | 📅 2023-05-05 - A tutorial on how to get Envoy running on Nomad and using Envoy's SDS(Service Discovery Service) to access Consul API.
 
 ## Examples / Demos
 
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
