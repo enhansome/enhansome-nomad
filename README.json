@@ -246,7 +246,7 @@
             "archived": false,
             "id": 203445555,
             "language": "HCL",
-            "last_commit": "2026-08-22T16:29:05Z",
+            "last_commit": "2026-08-23T18:59:21Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 406020472,
             "language": "Go",
-            "last_commit": "2026-08-23T03:37:00Z",
+            "last_commit": "2026-08-24T03:38:32Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:56:57.817Z",
+    "last_updated": "2026-08-24T07:15:47.882Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_id": 73475522,
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
