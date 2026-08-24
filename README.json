@@ -210,7 +210,7 @@
             "archived": false,
             "id": 658889839,
             "language": "C#",
-            "last_commit": "2026-08-17T07:26:04Z",
+            "last_commit": "2026-08-24T07:26:13Z",
             "owner": "sevensolutions",
             "repo": "nomad-iis",
             "stars": 26
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:15:47.882Z",
+    "last_updated": "2026-08-24T14:16:02.453Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_id": 73475522,
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
