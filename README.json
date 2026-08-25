@@ -12,7 +12,7 @@
             "archived": false,
             "id": 388589713,
             "language": "Go",
-            "last_commit": "2026-05-11T03:20:18Z",
+            "last_commit": "2026-08-24T21:09:20Z",
             "owner": "hashicorp",
             "repo": "damon",
             "stars": 486
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 1175659366,
             "language": "Go",
-            "last_commit": "2026-08-19T23:23:58Z",
+            "last_commit": "2026-08-24T15:47:55Z",
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
             "stars": 1
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 406020472,
             "language": "Go",
-            "last_commit": "2026-08-24T03:38:32Z",
+            "last_commit": "2026-08-25T03:35:15Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:02.453Z",
+    "last_updated": "2026-08-25T06:09:02.108Z",
     "original_repository": "jippi/awesome-nomad",
     "original_repository_id": 73475522,
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
