@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T09:17:21Z",
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 1175659366,
             "language": "Go",
-            "last_commit": "2026-08-24T15:47:55Z",
+            "last_commit": "2026-08-26T23:23:58Z",
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
             "stars": 1
@@ -246,7 +246,7 @@
             "archived": false,
             "id": 203445555,
             "language": "HCL",
-            "last_commit": "2026-08-25T23:04:01Z",
+            "last_commit": "2026-08-27T11:50:14Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 406020472,
             "language": "Go",
-            "last_commit": "2026-08-26T03:38:59Z",
+            "last_commit": "2026-08-27T05:06:33Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
@@ -515,9 +515,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:04:32.821Z",
-    "original_repository": "jippi/awesome-nomad",
-    "original_repository_id": 73475522,
+    "last_updated": "2026-08-27T11:52:27.745Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 73475522,
+      "language": null,
+      "last_commit": "2026-07-17T19:55:08Z",
+      "owner": "jippi",
+      "repo": "awesome-nomad",
+      "stars": 915
+    },
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
     "enhanced_repository": "enhansome/enhansome-nomad",
     "enhanced_repository_description": null,
