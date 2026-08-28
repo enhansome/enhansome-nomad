@@ -16,7 +16,8 @@
             "owner": "hashicorp",
             "repo": "damon",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "robinovitch61",
             "repo": "wander",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "User interfaces"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 236092834,
             "language": "Go",
-            "last_commit": "2026-08-19T09:17:21Z",
+            "last_commit": "2026-08-28T06:11:01Z",
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Lucretius",
             "repo": "nomad-elastigroup-autoscaler",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Autoscaling"
@@ -88,7 +92,8 @@
             "owner": "hashicorp",
             "repo": "levant",
             "stars": 834
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "nomad-ops",
             "repo": "nomad-ops",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "jenkinsci",
             "repo": "nomad-plugin",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "sunshard-team",
             "repo": "prism-nomad",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "CI / CD"
@@ -169,7 +178,8 @@
             "owner": "Roblox",
             "repo": "nomad-driver-containerd",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "Roblox",
             "repo": "nomad-driver-iis",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "JanMa",
             "repo": "nomad-driver-nspawn",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "sevensolutions",
             "repo": "nomad-iis",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "sorenisanerd",
             "repo": "nomad-docker-driver-external",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Plugins"
@@ -246,11 +260,12 @@
             "archived": false,
             "id": 203445555,
             "language": "HCL",
-            "last_commit": "2026-08-27T11:50:14Z",
+            "last_commit": "2026-08-28T03:13:40Z",
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "hashicorp",
             "repo": "nomad-pack-community-registry",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Job Files and Packs"
@@ -286,7 +302,8 @@
             "owner": "jsiebens",
             "repo": "hashi-up",
             "stars": 695
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -297,11 +314,12 @@
             "archived": false,
             "id": 406020472,
             "language": "Go",
-            "last_commit": "2026-08-27T05:06:33Z",
+            "last_commit": "2026-08-28T05:59:03Z",
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "mr-karan",
             "repo": "nomad-events-sink",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "Roblox",
             "repo": "nomad-node-problem-detector",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "koyeb",
             "repo": "kreconciler",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "Kamilcuk",
             "repo": "nomad-tools",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "mr-karan",
             "repo": "nomcfg",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "axsuul",
             "repo": "nomad-event-streamer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "let-sh",
             "repo": "nomad-deploy-result-action",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "dmaes",
             "repo": "nomad-logger",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Utilities"
@@ -457,7 +484,8 @@
             "owner": "kelseyhightower",
             "repo": "hashiconf-eu-2016",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -472,7 +500,8 @@
             "owner": "anubhavmishra",
             "repo": "envoy-consul-sds",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Tutorials"
@@ -493,7 +522,8 @@
             "owner": "fhemberger",
             "repo": "nomad-demo",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         },
         {
           "node_type": "item",
@@ -508,14 +538,15 @@
             "owner": "pete0emerson",
             "repo": "hashipoc",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
         }
       ],
       "title": "Examples / Demos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:25.475Z",
+    "last_updated": "2026-08-28T18:35:51.187Z",
     "original_repository_info": {
       "archived": false,
       "id": 73475522,
