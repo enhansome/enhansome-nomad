@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal UI (TUI) for HashiCorp Nomad",
+            "homepage": null,
             "id": 388589713,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-24T21:09:20Z",
+            "open_issues": 9,
             "owner": "hashicorp",
             "repo": "damon",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "golang",
+              "hashicorp",
+              "nomad",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -26,12 +36,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal app/TUI for HashiCorp Nomad",
+            "homepage": null,
             "id": 481096696,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-18T23:55:45Z",
+            "open_issues": 4,
             "owner": "robinovitch61",
             "repo": "wander",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "bubbletea",
+              "charm",
+              "charmbracelet",
+              "hacktoberfest",
+              "hashicorp",
+              "hashicorp-nomad",
+              "nomad",
+              "terminal",
+              "tui",
+              "wish"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -48,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
+            "homepage": null,
             "id": 236092834,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T06:11:01Z",
+            "open_issues": 78,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
-            "stars": 477
+            "stars": 477,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -64,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad Autoscaler plugin for Spotinst Elastigroup's",
+            "homepage": null,
             "id": 390523115,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-07-28T23:10:43Z",
+            "open_issues": 0,
             "owner": "Lucretius",
             "repo": "nomad-elastigroup-autoscaler",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -86,12 +122,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source templating and deployment tool for HashiCorp Nomad jobs",
+            "homepage": null,
             "id": 102973506,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-06-27T12:56:23Z",
+            "open_issues": 70,
             "owner": "hashicorp",
             "repo": "levant",
-            "stars": 834
+            "stars": 834,
+            "topics": [
+              "continuous-deployment",
+              "go",
+              "golang",
+              "hashicorp",
+              "hashicorp-nomad",
+              "nomad",
+              "nomad-job",
+              "templating"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -102,12 +152,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple operator for nomad which reconciles the running jobs in comparison to git repos. Essentially bringing gitops to nomad",
+            "homepage": "https://nomad-ops.github.io/nomad-ops/",
             "id": 615259635,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-10T21:25:04Z",
+            "open_issues": 10,
             "owner": "nomad-ops",
             "repo": "nomad-ops",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "argocd",
+              "continuous-deployment",
+              "git-ops",
+              "go",
+              "golang",
+              "nomad",
+              "pocketbase",
+              "react",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -118,12 +184,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad cloud plugin for Jenkins",
+            "homepage": "https://plugins.jenkins.io/nomad/",
             "id": 56803793,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-02-12T18:55:55Z",
+            "open_issues": 20,
             "owner": "jenkinsci",
             "repo": "nomad-plugin",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "agent",
+              "cloud",
+              "jenkins-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -134,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for templating and deploying job for HashiCorp Nomad.",
+            "homepage": null,
             "id": 663549661,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2025-02-28T18:25:32Z",
+            "open_issues": 0,
             "owner": "sunshard-team",
             "repo": "prism-nomad",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -150,12 +230,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of drift detection and gitops-style actuation for nomad.",
+            "homepage": null,
             "id": 1175659366,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:23:58Z",
+            "open_issues": 1,
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "drift-detection",
+              "gitops",
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -172,12 +261,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad task driver for launching containers using containerd.",
+            "homepage": null,
             "id": 262164991,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-23T18:59:18Z",
+            "open_issues": 29,
             "owner": "Roblox",
             "repo": "nomad-driver-containerd",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "containerd",
+              "containers",
+              "contributions-welcome",
+              "dockerless",
+              "golang",
+              "hashicorp-nomad",
+              "help-wanted",
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -188,12 +291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nomad task driver for running windows IIS services.",
+            "homepage": null,
             "id": 243582587,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-23T19:00:38Z",
+            "open_issues": 13,
             "owner": "Roblox",
             "repo": "nomad-driver-iis",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "golang",
+              "hashicorp-nomad",
+              "iis-website",
+              "nomad-driver-iis"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -204,12 +317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Nomad task driver for systemd-nspawn",
+            "homepage": null,
             "id": 215627123,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-05T15:02:08Z",
+            "open_issues": 8,
             "owner": "JanMa",
             "repo": "nomad-driver-nspawn",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -220,12 +338,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧩 A TaskDriver plugin for HashiCorp Nomad to run workloads on Microsoft IIS.",
+            "homepage": "https://nomad-iis.sevensolutions.cc/",
             "id": 658889839,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T07:26:13Z",
+            "open_issues": 6,
             "owner": "sevensolutions",
             "repo": "nomad-iis",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "csharp",
+              "grpc",
+              "hashicorp-nomad",
+              "iis",
+              "iis-website",
+              "nomad",
+              "nomad-driver-iis",
+              "nomad-plugin",
+              "nomad-task-driver"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -236,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External version of the docker driver for Nomad",
+            "homepage": null,
             "id": 657756268,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-01T19:58:50Z",
+            "open_issues": 0,
             "owner": "sorenisanerd",
             "repo": "nomad-docker-driver-external",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -258,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "small lightweight homelab based on nomad and consul from hashicorp",
+            "homepage": null,
             "id": 203445555,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:13:40Z",
+            "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -274,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repo for Packs written and maintained by Nomad community members",
+            "homepage": null,
             "id": 410035978,
             "language": "HCL",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-27T07:03:01Z",
+            "open_issues": 50,
             "owner": "hashicorp",
             "repo": "nomad-pack-community-registry",
-            "stars": 241
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -296,12 +444,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bootstrap HashiCorp Consul, Nomad, or Vault over SSH < 1 minute",
+            "homepage": null,
             "id": 281706528,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-18T22:54:32Z",
+            "open_issues": 7,
             "owner": "jsiebens",
             "repo": "hashi-up",
-            "stars": 695
+            "stars": 695,
+            "topics": [
+              "automation",
+              "boundary",
+              "cloud",
+              "consul",
+              "consul-cluster",
+              "devops",
+              "devtools",
+              "go",
+              "golang",
+              "hashicorp",
+              "linux",
+              "nomad",
+              "nomad-cluster",
+              "raspberry-pi",
+              "ssh-agent",
+              "vault",
+              "vault-cluster",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -312,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 406020472,
             "language": "Go",
-            "last_commit": "2026-08-28T05:59:03Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-29T03:29:43Z",
+            "open_issues": 60,
             "owner": "hashicorp",
             "repo": "nomad-pack",
-            "stars": 446
+            "stars": 446,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -328,12 +505,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos for Clouds",
+            "homepage": "https://ngine-io.github.io/chaotic/",
             "id": 233554418,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:42:43Z",
+            "open_issues": 9,
             "owner": "ngine-io",
             "repo": "chaotic",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "chaos-engineering",
+              "chaos-monkey",
+              "cloudscale-ch",
+              "cloudstack",
+              "digital-ocean",
+              "digitalocean",
+              "exoscale",
+              "fault-injection",
+              "hashicorp-nomad",
+              "hetzner-cloud",
+              "proxmox",
+              "vultr"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -344,12 +539,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An events collection agent which processes Nomad Events and dumps to external sink providers like HTTP",
+            "homepage": null,
             "id": 426582267,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-06-21T05:45:50Z",
+            "open_issues": 5,
             "owner": "mr-karan",
             "repo": "nomad-events-sink",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -360,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NNPD - nomad-node-problem-detector",
+            "homepage": null,
             "id": 331739304,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-23T19:03:03Z",
+            "open_issues": 0,
             "owner": "Roblox",
             "repo": "nomad-node-problem-detector",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -376,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A control-loop library for things that are not in k8s",
+            "homepage": null,
             "id": 377438979,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-18T16:05:08Z",
+            "open_issues": 1,
             "owner": "koyeb",
             "repo": "kreconciler",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -392,12 +604,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of tools and utilities to ease interacting with HashiCorp Nomad scheduling solution.",
+            "homepage": "https://github.com/Kamilcuk/nomad-tools",
             "id": 696458920,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-24T09:26:01Z",
+            "open_issues": 4,
             "owner": "Kamilcuk",
             "repo": "nomad-tools",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "nomad",
+              "nomad-job",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -408,12 +630,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://nomcfg.mrkaran.dev/",
             "id": 827207543,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-07-11T10:39:41Z",
+            "open_issues": 2,
             "owner": "mr-karan",
             "repo": "nomcfg",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -424,12 +653,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streams HashiCorp Nomad events to your favorite destinations",
+            "homepage": null,
             "id": 445131500,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-08-22T16:23:11Z",
+            "open_issues": 0,
             "owner": "axsuul",
             "repo": "nomad-event-streamer",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hashicorp",
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -440,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "github actions to handle nomad deploy result",
+            "homepage": null,
             "id": 384990655,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-14T23:30:19Z",
+            "open_issues": 1,
             "owner": "let-sh",
             "repo": "nomad-deploy-result-action",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -456,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Watch Nomad allocations and update logshipper config",
+            "homepage": null,
             "id": 441182174,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-12T10:29:00Z",
+            "open_issues": 3,
             "owner": "dmaes",
             "repo": "nomad-logger",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -478,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HashiConf EU 2016 ",
+            "homepage": null,
             "id": 60951138,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-09-08T14:53:59Z",
+            "open_issues": 1,
             "owner": "kelseyhightower",
             "repo": "hashiconf-eu-2016",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -494,12 +746,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Envoy Consul Service Discovery Service",
+            "homepage": null,
             "id": 102249840,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-05T02:39:49Z",
+            "open_issues": 3,
             "owner": "anubhavmishra",
             "repo": "envoy-consul-sds",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "consul",
+              "envoy",
+              "nomad",
+              "sds"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -516,12 +778,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vagrant based demo setup for running Hashicorp Nomad",
+            "homepage": "http://nomadproject.io",
             "id": 254154745,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2023-07-01T23:40:50Z",
+            "open_issues": 1,
             "owner": "fhemberger",
             "repo": "nomad-demo",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "consul",
+              "coredns",
+              "demo",
+              "nomad",
+              "prometheus",
+              "traefik",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         },
@@ -532,12 +807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample application using Vagrant, Consul, Vault, and Nomad",
+            "homepage": null,
             "id": 103163993,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-12-08T00:43:20Z",
+            "open_issues": 5,
             "owner": "pete0emerson",
             "repo": "hashipoc",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
         }
@@ -546,15 +826,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:35:51.187Z",
+    "last_updated": "2026-08-29T04:36:03.827Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
+      "homepage": null,
       "id": 73475522,
       "language": null,
+      "license": "WTFPL",
       "last_commit": "2026-07-17T19:55:08Z",
+      "open_issues": 1,
       "owner": "jippi",
       "repo": "awesome-nomad",
-      "stars": 915
+      "stars": 915,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hashicorp",
+        "hashicorp-nomad",
+        "nomad"
+      ]
     },
     "original_repository_sha": "e453a5f180c9a622adc02e1703b03478c4df4532",
     "enhanced_repository": "enhansome/enhansome-nomad",
