@@ -79,8 +79,8 @@
             "id": 236092834,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T06:09:10Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-04T14:22:29Z",
+            "open_issues": 75,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 477,
@@ -161,7 +161,7 @@
             "open_issues": 10,
             "owner": "nomad-ops",
             "repo": "nomad-ops",
-            "stars": 113,
+            "stars": 112,
             "topics": [
               "argocd",
               "continuous-deployment",
@@ -270,7 +270,7 @@
             "open_issues": 29,
             "owner": "Roblox",
             "repo": "nomad-driver-containerd",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "containerd",
               "containers",
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T03:25:45Z",
+            "last_commit": "2026-09-04T18:08:57Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T03:32:42Z",
+            "last_commit": "2026-09-05T03:31:20Z",
             "open_issues": 61,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:10:17.991Z",
+    "last_updated": "2026-09-05T10:29:18.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
