@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-06T03:32:12Z",
+            "last_commit": "2026-09-07T03:35:21Z",
             "open_issues": 61,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:49:39.687Z",
+    "last_updated": "2026-09-07T12:20:36.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
