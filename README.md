@@ -46,7 +46,7 @@ Pull requests with additional tools and projects are more than welcome!
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-09-10 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-09-11 - An official templating tool and package manager for Nomad, currently a Tech Preview.
 * [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2025-07-23 - A tool used to detect problems on Nomad nodes based on user-defined health checks.
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
