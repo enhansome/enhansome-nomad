@@ -45,7 +45,7 @@
             "open_issues": 4,
             "owner": "robinovitch61",
             "repo": "wander",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "bubbletea",
               "charm",
@@ -161,7 +161,7 @@
             "open_issues": 10,
             "owner": "nomad-ops",
             "repo": "nomad-ops",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "argocd",
               "continuous-deployment",
@@ -235,8 +235,8 @@
             "id": 1175659366,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:40:58Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-16T23:24:14Z",
+            "open_issues": 1,
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
             "stars": 1,
@@ -401,11 +401,11 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T17:27:23Z",
+            "last_commit": "2026-09-16T22:46:35Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -453,7 +453,7 @@
             "open_issues": 7,
             "owner": "jsiebens",
             "repo": "hashi-up",
-            "stars": 695,
+            "stars": 694,
             "topics": [
               "automation",
               "boundary",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-16T03:33:45Z",
+            "last_commit": "2026-09-17T03:33:44Z",
             "open_issues": 60,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -510,8 +510,8 @@
             "id": 233554418,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:47:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-16T13:45:44Z",
+            "open_issues": 5,
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74,
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:24:42.269Z",
+    "last_updated": "2026-09-17T11:33:25.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",

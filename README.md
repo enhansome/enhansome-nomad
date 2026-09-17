@@ -7,7 +7,7 @@ Pull requests with additional tools and projects are more than welcome!
 ## User interfaces
 
 * [hashicorp/damon](https://github.com/hashicorp/damon) ⭐ 488 | 🐛 10 | 🌐 Go | 📅 2026-08-24 - An early stage terminal dashboard for Nomad.
-* [robinovitch61/wander](https://github.com/robinovitch61/wander) ⭐ 480 | 🐛 4 | 🌐 Go | 📅 2024-06-18 - A terminal UI for Nomad.
+* [robinovitch61/wander](https://github.com/robinovitch61/wander) ⭐ 481 | 🐛 4 | 🌐 Go | 📅 2024-06-18 - A terminal UI for Nomad.
 
 ## Autoscaling
 
@@ -17,10 +17,10 @@ Pull requests with additional tools and projects are more than welcome!
 ## CI / CD
 
 * [hashicorp/levant](https://github.com/hashicorp/levant) ⚠️ Archived - A templating and deployment tool for HashiCorp Nomad jobs that provides realtime feedback and detailed failure messages upon deployment issues.
-* [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) ⭐ 112 | 🐛 10 | 🌐 TypeScript | 📅 2025-06-10 - A simple way to deploy workloads via GitOps. Similar to ArgoCD with a UI.
+* [nomad-ops/nomad-ops](https://github.com/nomad-ops/nomad-ops) ⭐ 113 | 🐛 10 | 🌐 TypeScript | 📅 2025-06-10 - A simple way to deploy workloads via GitOps. Similar to ArgoCD with a UI.
 * [jenkinsci/nomad-plugin](https://github.com/jenkinsci/nomad-plugin) ⭐ 59 | 🐛 21 | 🌐 Java | 📅 2024-02-12 - Jenkins plugin to allow using Nomad Jobs to scale out Jenkins build slaves.
 * [sunshard-prism/prism-nomad)](https://github.com/sunshard-prism/prism-nomad) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2025-02-28 - Prism is a tool that simplifies the creation of Nomad job configuration templates and deploys them to a remote cluster.
-* [gerrowadat/nomad-gitops](https://github.com/gerrowadat/nomad-gitops) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-09-14 - Another implementation of 'gitops' style drift detection and deployment for Nomad.
+* [gerrowadat/nomad-gitops](https://github.com/gerrowadat/nomad-gitops) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-09-16 - Another implementation of 'gitops' style drift detection and deployment for Nomad.
 * [getnelson/nelson](https://getnelson.io/) - Lights-out deployment and lifecycle manager for Nomad (and other pluggable schedulers). Fully integrated with Vault and Consul. Optionally can act as a control plane for your traffic routing teir.
 * [hashicorp/setup-nomad-pack](https://github.com/marketplace/actions/setup-hashicorp-nomad-pack) - HashiCorp-maintained GitHub Action for `nomad-pack`.
 
@@ -40,14 +40,14 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 363 | 🐛 8 | 🌐 HCL | 📅 2026-09-15 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 8 | 🌐 HCL | 📅 2026-09-16 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 50 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
-* [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-09-16 - An official templating tool and package manager for Nomad, currently a Tech Preview.
-* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-09-09 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
+* [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 694 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-09-17 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2025-07-23 - A tool used to detect problems on Nomad nodes based on user-defined health checks.
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 51 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
