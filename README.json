@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T22:46:35Z",
+            "last_commit": "2026-09-18T05:56:25Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,11 +489,11 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-17T03:33:44Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-18T03:32:57Z",
+            "open_issues": 62,
             "owner": "hashicorp",
             "repo": "nomad-pack",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:33:25.611Z",
+    "last_updated": "2026-09-18T11:05:52.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
