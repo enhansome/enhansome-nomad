@@ -79,11 +79,11 @@
             "id": 236092834,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-14T15:06:51Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-18T18:38:32Z",
+            "open_issues": 74,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
-            "stars": 477,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T05:56:25Z",
+            "last_commit": "2026-09-19T05:40:51Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -453,7 +453,7 @@
             "open_issues": 7,
             "owner": "jsiebens",
             "repo": "hashi-up",
-            "stars": 694,
+            "stars": 695,
             "topics": [
               "automation",
               "boundary",
@@ -489,11 +489,11 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-18T03:32:57Z",
+            "last_commit": "2026-09-19T03:31:46Z",
             "open_issues": 62,
             "owner": "hashicorp",
             "repo": "nomad-pack",
-            "stars": 446,
+            "stars": 445,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:05:52.491Z",
+    "last_updated": "2026-09-19T10:51:19.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
