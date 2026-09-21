@@ -343,7 +343,7 @@
             "id": 658889839,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-14T07:25:51Z",
+            "last_commit": "2026-09-21T07:25:53Z",
             "open_issues": 6,
             "owner": "sevensolutions",
             "repo": "nomad-iis",
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T06:03:54Z",
+            "last_commit": "2026-09-21T02:21:31Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-20T09:04:33Z",
+            "last_commit": "2026-09-21T03:36:43Z",
             "open_issues": 63,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:14:45.829Z",
+    "last_updated": "2026-09-21T12:40:55.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
