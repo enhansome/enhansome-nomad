@@ -11,7 +11,7 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Autoscaling
 
-* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 476 | 🐛 75 | 🌐 Go | 📅 2026-09-20 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
+* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 476 | 🐛 73 | 🌐 Go | 📅 2026-09-21 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
 * [lucretius/nomad-elastigroup-autoscaler](https://github.com/lucretius/nomad-elastigroup-autoscaler) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-28 - Nomad Autoscaler plugin for [Spot.io Elastigroup](https://spot.io/products/elastigroup/).
 
 ## CI / CD
@@ -40,17 +40,17 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 8 | 🌐 HCL | 📅 2026-09-21 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 8 | 🌐 HCL | 📅 2026-09-22 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 50 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 444 | 🐛 63 | 🌐 Go | 📅 2026-09-21 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 444 | 🐛 59 | 🌐 Go | 📅 2026-09-22 - An official templating tool and package manager for Nomad, currently a Tech Preview.
 * [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2026-09-16 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
+* [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2025-07-23 - A tool used to detect problems on Nomad nodes based on user-defined health checks.
-* [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 51 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
 * [kamilcuk/nomad-tools](https://github.com/Kamilcuk/nomad-tools) ⭐ 43 | 🐛 4 | 🌐 Python | 📅 2026-03-24 - `docker run` for Nomad, watch all logs and events of a job in the terminal, copy files to/from host and allocations, manage Nomad variables as files, list ports associated with job, implementation of [custom `gitlab-runner` executor](https://docs.gitlab.com/runner/executors/custom.html) that executes Gitlab CI/CD jobs as Nomad jobs.
 * [mr-karan/nomcfg](https://github.com/mr-karan/nomcfg) ⭐ 18 | 🐛 2 | 🌐 HTML | 📅 2024-07-11 - A ui for generating nomad job specs
 * [axsuul/nomad-event-streamer](http://github.com/axsuul/nomad-event-streamer) ⭐ 15 | 🐛 0 | 🌐 Ruby | 📅 2023-08-22 - A tool for sending Nomad events to your favorite destinations like Discord and Slack.
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

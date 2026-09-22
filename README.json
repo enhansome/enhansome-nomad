@@ -79,8 +79,8 @@
             "id": 236092834,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-20T09:04:02Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-21T15:57:52Z",
+            "open_issues": 73,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 476,
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T02:21:31Z",
+            "last_commit": "2026-09-22T04:03:47Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,8 +489,8 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-21T03:36:43Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-22T07:16:47Z",
+            "open_issues": 59,
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 444,
@@ -557,6 +557,27 @@
         },
         {
           "node_type": "item",
+          "title": "koyeb/kreconciler",
+          "description": "A library for building operators and reconcilers on top of Nomad (or other schedulers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A control-loop library for things that are not in k8s",
+            "homepage": null,
+            "id": 377438979,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-18T16:05:08Z",
+            "open_issues": 1,
+            "owner": "koyeb",
+            "repo": "kreconciler",
+            "stars": 52,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:35:51.187Z"
+        },
+        {
+          "node_type": "item",
           "title": "Roblox/nomad-node-problem-detector",
           "description": "A tool used to detect problems on Nomad nodes based on user-defined health checks.",
           "children": [],
@@ -572,27 +593,6 @@
             "owner": "Roblox",
             "repo": "nomad-node-problem-detector",
             "stars": 52,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:35:51.187Z"
-        },
-        {
-          "node_type": "item",
-          "title": "koyeb/kreconciler",
-          "description": "A library for building operators and reconcilers on top of Nomad (or other schedulers).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A control-loop library for things that are not in k8s",
-            "homepage": null,
-            "id": 377438979,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-18T16:05:08Z",
-            "open_issues": 1,
-            "owner": "koyeb",
-            "repo": "kreconciler",
-            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T12:40:55.334Z",
+    "last_updated": "2026-09-22T11:28:13.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
