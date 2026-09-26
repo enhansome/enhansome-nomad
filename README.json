@@ -239,7 +239,7 @@
             "open_issues": 1,
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "drift-detection",
               "gitops",
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T10:59:41Z",
+            "last_commit": "2026-09-26T02:22:12Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,8 +489,8 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-25T09:14:14Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-26T03:32:53Z",
+            "open_issues": 59,
             "owner": "hashicorp",
             "repo": "nomad-pack",
             "stars": 444,
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T11:43:42.343Z",
+    "last_updated": "2026-09-26T11:16:52.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
