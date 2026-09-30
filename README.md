@@ -40,13 +40,13 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 8 | 🌐 HCL | 📅 2026-09-29 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 8 | 🌐 HCL | 📅 2026-09-30 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 50 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 444 | 🐛 59 | 🌐 Go | 📅 2026-09-29 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 444 | 🐛 59 | 🌐 Go | 📅 2026-09-30 - An official templating tool and package manager for Nomad, currently a Tech Preview.
 * [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -70,8 +70,8 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Other
 
-* [prabirshrestha/synology-nomad](https://github.com/prabirshrestha/synology-nomad) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2026-09-26 - HashiCorp Nomad Package for Synology DSM 7+. Includes client and server.
+* [prabirshrestha/synology-nomad](https://github.com/prabirshrestha/synology-nomad) ⭐ 31 | 🐛 1 | 🌐 Shell | 📅 2026-09-26 - HashiCorp Nomad Package for Synology DSM 7+. Includes client and server.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
