@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "hashicorp",
             "repo": "damon",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "golang",
               "hashicorp",
@@ -161,7 +161,7 @@
             "open_issues": 10,
             "owner": "nomad-ops",
             "repo": "nomad-ops",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "argocd",
               "continuous-deployment",
@@ -239,7 +239,7 @@
             "open_issues": 1,
             "owner": "gerrowadat",
             "repo": "nomad-gitops",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "drift-detection",
               "gitops",
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T22:13:48Z",
+            "last_commit": "2026-10-02T17:06:04Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T03:36:13Z",
+            "last_commit": "2026-10-03T03:44:39Z",
             "open_issues": 59,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:24:07.005Z",
+    "last_updated": "2026-10-03T04:59:14.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
@@ -838,7 +838,7 @@
       "open_issues": 1,
       "owner": "jippi",
       "repo": "awesome-nomad",
-      "stars": 915,
+      "stars": 917,
       "topics": [
         "awesome",
         "awesome-list",
