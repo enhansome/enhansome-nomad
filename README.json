@@ -270,7 +270,7 @@
             "open_issues": 29,
             "owner": "Roblox",
             "repo": "nomad-driver-containerd",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "containerd",
               "containers",
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T21:01:30Z",
+            "last_commit": "2026-10-06T06:25:00Z",
             "open_issues": 8,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-05T10:26:51Z",
+            "last_commit": "2026-10-06T03:36:53Z",
             "open_issues": 59,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:26:40.779Z",
+    "last_updated": "2026-10-06T11:05:50.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
