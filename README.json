@@ -83,7 +83,7 @@
             "open_issues": 74,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T10:54:39Z",
+            "last_commit": "2026-10-23T06:11:33Z",
             "open_issues": 9,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-22T03:34:50Z",
+            "last_commit": "2026-10-23T03:34:52Z",
             "open_issues": 60,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -510,8 +510,8 @@
             "id": 233554418,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T02:34:58Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-22T18:55:06Z",
+            "open_issues": 5,
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74,
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:41:42.055Z",
+    "last_updated": "2026-10-23T11:30:16.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
@@ -838,7 +838,7 @@
       "open_issues": 1,
       "owner": "jippi",
       "repo": "awesome-nomad",
-      "stars": 917,
+      "stars": 918,
       "topics": [
         "awesome",
         "awesome-list",
