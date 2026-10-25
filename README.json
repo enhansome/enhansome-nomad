@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "hashicorp",
             "repo": "damon",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "golang",
               "hashicorp",
@@ -45,7 +45,7 @@
             "open_issues": 4,
             "owner": "robinovitch61",
             "repo": "wander",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "bubbletea",
               "charm",
@@ -80,7 +80,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-10-18T09:03:30Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 477,
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T02:44:04Z",
+            "last_commit": "2026-10-25T08:39:31Z",
             "open_issues": 9,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T03:33:20Z",
+            "last_commit": "2026-10-25T03:36:04Z",
             "open_issues": 60,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:50:12.130Z",
+    "last_updated": "2026-10-25T11:15:53.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",

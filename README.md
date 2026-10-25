@@ -6,12 +6,12 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## User interfaces
 
-* [hashicorp/damon](https://github.com/hashicorp/damon) ⭐ 491 | 🐛 11 | 🌐 Go | 📅 2026-08-24 - An early stage terminal dashboard for Nomad.
-* [robinovitch61/wander](https://github.com/robinovitch61/wander) ⭐ 482 | 🐛 4 | 🌐 Go | 📅 2026-10-15 - A terminal UI for Nomad.
+* [hashicorp/damon](https://github.com/hashicorp/damon) ⭐ 490 | 🐛 11 | 🌐 Go | 📅 2026-08-24 - An early stage terminal dashboard for Nomad.
+* [robinovitch61/wander](https://github.com/robinovitch61/wander) ⭐ 483 | 🐛 4 | 🌐 Go | 📅 2026-10-15 - A terminal UI for Nomad.
 
 ## Autoscaling
 
-* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 477 | 🐛 74 | 🌐 Go | 📅 2026-10-18 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
+* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 477 | 🐛 75 | 🌐 Go | 📅 2026-10-18 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
 * [lucretius/nomad-elastigroup-autoscaler](https://github.com/lucretius/nomad-elastigroup-autoscaler) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-28 - Nomad Autoscaler plugin for [Spot.io Elastigroup](https://spot.io/products/elastigroup/).
 
 ## CI / CD
@@ -40,13 +40,13 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 9 | 🌐 HCL | 📅 2026-10-24 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 9 | 🌐 HCL | 📅 2026-10-25 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 50 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-10-24 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 446 | 🐛 60 | 🌐 Go | 📅 2026-10-25 - An official templating tool and package manager for Nomad, currently a Tech Preview.
 * [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 6 | 🌐 Python | 📅 2026-10-23 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 1 | 🌐 Go | 📅 2026-10-20 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
