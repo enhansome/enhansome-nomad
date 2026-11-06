@@ -11,7 +11,7 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Autoscaling
 
-* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 477 | 🐛 76 | 🌐 Go | 📅 2026-11-02 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
+* [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler/) ⭐ 477 | 🐛 77 | 🌐 Go | 📅 2026-11-02 - HashiCorp's official Nomad Autoscaler. Supports scaling allocations within Nomad and scaling nodes on AWS, Azure, GCP, or arbitrary infrastructure via plugins.
 * [lucretius/nomad-elastigroup-autoscaler](https://github.com/lucretius/nomad-elastigroup-autoscaler) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2021-07-28 - Nomad Autoscaler plugin for [Spot.io Elastigroup](https://spot.io/products/elastigroup/).
 
 ## CI / CD
@@ -29,7 +29,7 @@ Pull requests with additional tools and projects are more than welcome!
 * [Roblox/nomad-driver-containerd](https://github.com/Roblox/nomad-driver-containerd) ⭐ 243 | 🐛 29 | 🌐 Go | 📅 2025-07-23 - A nomad task driver for [containerd](https://containerd.io). Documentation on [`nomadproject.io`](https://www.nomadproject.io/docs/drivers/external/containerd).
 * [Roblox/nomad-driver-iis](https://github.com/Roblox/nomad-driver-iis) ⭐ 62 | 🐛 13 | 🌐 Go | 📅 2025-07-23 - A nomad task driver to run [windows IIS](https://www.iis.net/) tasks.
 * [JanMa/nomad-driver-nspawn](https://github.com/JanMa/nomad-driver-nspawn) ⭐ 60 | 🐛 8 | 🌐 Go | 📅 2026-01-05 - A nomad task driver to run containers with [systemd-nspawn](https://www.freedesktop.org/software/systemd/man/systemd-nspawn.html).
-* [sevensolutions/nomad-iis](https://github.com/sevensolutions/nomad-iis) ⭐ 27 | 🐛 8 | 🌐 C# | 📅 2026-11-04 - A nomad task driver to run [windows IIS](https://www.iis.net/) tasks.
+* [sevensolutions/nomad-iis](https://github.com/sevensolutions/nomad-iis) ⭐ 27 | 🐛 6 | 🌐 C# | 📅 2026-11-06 - A nomad task driver to run [windows IIS](https://www.iis.net/) tasks.
 * [sorenisanerd/nomad-docker-driver-external](https://github.com/sorenisanerd/nomad-docker-driver-external) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2024-02-01 - External version of the docker driver for Nomad.
 * [CarbonCollins/nomad-usb-device-plugin](https://gitlab.com/CarbonCollins/nomad-usb-device-plugin) - A USB device plugin for nomad deployments.
 * [Deuxfleurs/nomad-driver-nix2](https://git.deuxfleurs.fr/Deuxfleurs/nomad-driver-nix2) - A driver to run Nix jobs on Nomad.
@@ -40,14 +40,14 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 9 | 🌐 HCL | 📅 2026-11-05 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 9 | 🌐 HCL | 📅 2026-11-06 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 49 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 696 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 59 | 🌐 Go | 📅 2026-11-05 - An official templating tool and package manager for Nomad, currently a Tech Preview.
-* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 11 | 🌐 Python | 📅 2026-11-04 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 59 | 🌐 Go | 📅 2026-11-06 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 11 | 🌐 Python | 📅 2026-11-05 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⚠️ Archived - A tool used to detect problems on Nomad nodes based on user-defined health checks.
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-11-04 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
