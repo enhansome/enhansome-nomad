@@ -6,7 +6,7 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## User interfaces
 
-* [hashicorp/damon](https://github.com/hashicorp/damon) ⭐ 491 | 🐛 11 | 🌐 Go | 📅 2026-08-24 - An early stage terminal dashboard for Nomad.
+* [hashicorp/damon](https://github.com/hashicorp/damon) ⭐ 492 | 🐛 11 | 🌐 Go | 📅 2026-08-24 - An early stage terminal dashboard for Nomad.
 * [robinovitch61/wander](https://github.com/robinovitch61/wander) ⭐ 482 | 🐛 6 | 🌐 Go | 📅 2026-10-15 - A terminal UI for Nomad.
 
 ## Autoscaling
@@ -45,9 +45,9 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Utilities
 
-* [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 695 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-11-09 - An official templating tool and package manager for Nomad, currently a Tech Preview.
-* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 11 | 🌐 Python | 📅 2026-11-05 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
+* [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 696 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-11-10 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⚠️ Archived - A tool used to detect problems on Nomad nodes based on user-defined health checks.
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-11-04 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
