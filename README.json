@@ -326,7 +326,7 @@
             "open_issues": 8,
             "owner": "JanMa",
             "repo": "nomad-driver-nspawn",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -401,7 +401,7 @@
             "id": 203445555,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T23:56:40Z",
+            "last_commit": "2026-11-11T14:05:15Z",
             "open_issues": 10,
             "owner": "perrymanuk",
             "repo": "hashi-homelab",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-10T03:23:58Z",
+            "last_commit": "2026-11-11T03:24:07Z",
             "open_issues": 60,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -588,7 +588,7 @@
             "id": 377438979,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T08:19:17Z",
+            "last_commit": "2026-11-11T05:08:34Z",
             "open_issues": 0,
             "owner": "koyeb",
             "repo": "kreconciler",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:45:56.591Z",
+    "last_updated": "2026-11-11T14:05:50.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
