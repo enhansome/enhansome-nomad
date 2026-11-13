@@ -40,14 +40,14 @@ Pull requests with additional tools and projects are more than welcome!
 
 ## Job Files and Packs
 
-* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 10 | 🌐 HCL | 📅 2026-11-12 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
+* [perrymanuk/hashi-homelab](https://github.com/perrymanuk/hashi-homelab) ⭐ 364 | 🐛 10 | 🌐 HCL | 📅 2026-11-13 Job files for a small lightweight homelab based on nomad and consul from hashicorp.
 * [hashicorp/nomad-pack-community-registry](https://github.com/hashicorp/nomad-pack-community-registry) ⭐ 242 | 🐛 49 | 🌐 HCL | 📅 2026-07-27 - The official community registry for Nomad Pack templates.
 
 ## Utilities
 
 * [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) ⭐ 696 | 🐛 7 | 🌐 Go | 📅 2023-12-18 - A lightweight utility to install Nomad (and other HashiCorp tools) on any remote Linux host.
-* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-11-12 - An official templating tool and package manager for Nomad, currently a Tech Preview.
-* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
+* [hashicorp/nomad-pack](https://github.com/hashicorp/nomad-pack) ⭐ 447 | 🐛 60 | 🌐 Go | 📅 2026-11-13 - An official templating tool and package manager for Nomad, currently a Tech Preview.
+* [ngine-io/chaotic](https://github.com/ngine-io/chaotic) ⭐ 75 | 🐛 12 | 🌐 Python | 📅 2026-11-13 - Chaos monkey with integrated nomad support. Runs as batch job or service and kills allocations periodically and randomly.
 * [mr-karan/nomad-events-sink](https://github.com/mr-karan/nomad-events-sink) ⭐ 55 | 🐛 5 | 🌐 Go | 📅 2023-06-21 - Ships nomad event logs to dedicated sinks
 * [Roblox/nomad-node-problem-detector](https://github.com/Roblox/nomad-node-problem-detector) ⚠️ Archived - A tool used to detect problems on Nomad nodes based on user-defined health checks.
 * [koyeb/kreconciler](https://github.com/koyeb/kreconciler) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-11-11 - A library for building operators and reconcilers on top of Nomad (or other schedulers).
@@ -74,4 +74,4 @@ Pull requests with additional tools and projects are more than welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
