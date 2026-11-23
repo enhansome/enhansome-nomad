@@ -83,7 +83,7 @@
             "open_issues": 80,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
-            "stars": 477,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:51.187Z"
@@ -343,7 +343,7 @@
             "id": 658889839,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T07:27:52Z",
+            "last_commit": "2026-11-23T07:34:08Z",
             "open_issues": 5,
             "owner": "sevensolutions",
             "repo": "nomad-iis",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-22T09:03:31Z",
+            "last_commit": "2026-11-23T03:26:56Z",
             "open_issues": 63,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:28:06.774Z",
+    "last_updated": "2026-11-23T17:56:31.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
