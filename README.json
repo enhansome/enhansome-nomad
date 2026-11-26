@@ -80,7 +80,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-11-22T09:04:05Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "hashicorp",
             "repo": "nomad-autoscaler",
             "stars": 478,
@@ -453,7 +453,7 @@
             "open_issues": 7,
             "owner": "jsiebens",
             "repo": "hashi-up",
-            "stars": 696,
+            "stars": 695,
             "topics": [
               "automation",
               "boundary",
@@ -489,7 +489,7 @@
             "id": 406020472,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-25T03:25:59Z",
+            "last_commit": "2026-11-26T03:25:19Z",
             "open_issues": 63,
             "owner": "hashicorp",
             "repo": "nomad-pack",
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:05:31.918Z",
+    "last_updated": "2026-11-26T16:45:57.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Nomad tools and shiny things.",
